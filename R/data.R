@@ -1,0 +1,5 @@
+set.seed(15437)
+x <- floor(runif(100)*100)
+y1 <- sample(c(TRUE,FALSE),10,replace=TRUE)
+y2 <- sample(c(TRUE,FALSE),10,replace=TRUE)
+z <- sample(c("a","b","c"),1000,replace=TRUE)

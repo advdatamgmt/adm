@@ -1,0 +1,11 @@
+Package: adm
+Type: Package
+Title: Data and Functions for Advanced Data Management Course
+Version: 0.0.0.9000
+Date: 2015-08-21
+Author: Beau Benjamin Bruce <bbbruce@emory.edu>
+Maintainer: Beau Benjamin Bruce <bbbruce@emory.edu>
+Description: Contains data and functions for MSCR 596 Advanced Data Management with R, a course at Emory University.
+License: GPL-3
+LazyData: TRUE
+Imports: devtools
