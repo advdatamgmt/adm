@@ -3,6 +3,7 @@
 #' @param value is what goes inside the tag
 #' @param tag is a valid HTML tag
 #' @param attr is a list of attributes
+#' @export
 html <- function(value, tag, attr = NULL) {
   # paste the attributes/values together, attr needs to be a list of lists
   # allows recycling of arguments
